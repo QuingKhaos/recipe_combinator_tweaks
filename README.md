@@ -2,4 +2,6 @@
 
 # Recipe Combinator Tweaks
 
-Opinionated tweaks to Recipe Combinator.
+Opinionated tweaks to [Recipe Combinator](https://mods.factorio.com/mod/recipe_combinator). For a full list of changes, take a look at the changelog.
+
+If you want to see some new tweaks, feel free to open a discussion thread on the mod portal or a GitHub issue. Eventually some non so opiniated tweaks will make it into the original mod.
