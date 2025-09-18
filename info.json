@@ -9,6 +9,6 @@
   "dependencies": [
     "base >= 2.0.0",
     "recipe_combinator >= 0.1.2",
-    "? SchallCircuitGroups >= 2.0.0"
+    "? SchallCircuitGroup >= 2.0.0"
   ]
 }
